@@ -1,0 +1,7 @@
+grant {
+    // Permite todas las operaciones (solo para fines académicos)
+    permission java.security.AllPermission;
+
+    // Permite conexiones y aceptación de conexiones en puertos > 1024
+    permission java.net.SocketPermission "*:1024-", "connect,accept";
+};
