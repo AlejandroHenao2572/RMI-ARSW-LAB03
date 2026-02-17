@@ -1,5 +1,9 @@
 # RMI-ARSW-LAB03
 
+## Realizado por:
+- David Alejandro Patacon Henao
+- Daniel Felipe Hueso Rueda
+
 Proyecto con dos ejemplos de Java RMI: un servicio Echo basico y un chat entre dos clientes. El objetivo es practicar la publicacion y consumo de objetos remotos usando `rmiregistry`.
 
 ## Estructura
